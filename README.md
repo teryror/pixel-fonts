@@ -8,7 +8,7 @@ To that end, we use BitFontMaker2 (http://www.pentacom.jp/pentacom/bitfontmaker2
 
 # Reference Font
 
-You can find the original `Open Sans` TTF font at this [github page](https://github.com/google/fonts/tree/master/apache/opensans)
+You can find the original `Open Sans Regular` TTF font at this [github page](https://github.com/google/fonts/tree/master/apache/opensans).
 
 # Licensing
 While we do create the bitmaps by hand to maintain readability and the style of each font, even at low resolutions, the end product is still a derivative of the original font. We do not claim copyright to the typeface, and generally distribute our pixel fonts under the same license as the originals.
