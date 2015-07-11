@@ -191,9 +191,9 @@
     "name":"Open Sans PX",
     "copy":"Tristan Dannenberg",
     "letterspace":"0",
-    "basefont_size":"512",
-    "basefont_left":"62",
+    "basefont_size":"354",
+    "basefont_left":"73",
     "basefont_top":"0",
-    "basefont":"Arial",
-    "basefont2":""
+    "basefont":"none",
+    "basefont2":"Open Sans"
 }
