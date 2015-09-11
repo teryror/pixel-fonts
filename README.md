@@ -12,7 +12,8 @@ To that end, we use BitFontMaker2 (http://www.pentacom.jp/pentacom/bitfontmaker2
 You can find the original TTF files used for reference during development at the following locations
 
 * `Open Sans Regular`: This [github page](https://github.com/google/fonts/tree/master/apache/opensans);
-* `EB Garamond`: Hosted on [Google Fonts](https://www.google.com/fonts/specimen/EB+Garamond).
+* `EB Garamond`: Hosted on [Google Fonts](https://www.google.com/fonts/specimen/EB+Garamond);
+* `Special Elite`: Hosted on [Google Fonts](https://www.google.com/fonts/specimen/Special+Elite).
 
 # Licensing
 
